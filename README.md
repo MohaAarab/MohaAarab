@@ -1,261 +1,216 @@
 <div align="center">
 
-  <!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:000000&height=220&section=header&text=Mohamed%20Arab&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%"/>
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohamed%20Arab&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20%7C%20Automation%20%7C%20Building%20with%20Code&descAlign=50&descAlignY=51&descSize=16"/>
-
-  <!-- Typing Animation -->
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Learning+by+building+real+projects.;Turning+ideas+into+working+software.;Automation+%7C+JavaScript+%7C+Databases;Build.+Break.+Fix.+Repeat." alt="Typing Animation"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Developer+in+the+making;Learning+by+building+real+projects;JavaScript+%7C+SQL+%7C+Backend;Build.+Break.+Fix.+Repeat." alt="Typing SVG" />
+</a>
 
 </div>
 
 ---
 
-<div align="center">
-
-## 🎯 WHO AM I?
-
-<table>
-<tr>
-<td>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300">
-</td>
-<td>
+## 👨‍💻 About Me
 
 ```yaml
 name: Mohamed Arab
 location: Morocco
-current_focus: Software Development
 education: YouCode
 
-currently_learning:
+current_focus:
+  - Software Development
   - JavaScript
-  - SQL
-  - PostgreSQL
-  - Backend Development
+  - SQL & PostgreSQL
+  - Backend Fundamentals
   - Web Development
 
-previous_focus:
+background:
   - n8n Automation
   - APIs
   - Workflow Development
   - Business Process Automation
 
 mindset: Learning by building
-goal: Become a well-rounded developer
 ```
 
-</td>
-</tr>
-</table>
+I'm a developer in the making, currently focused on strengthening my programming fundamentals and building real projects.
 
-</div>
+I learn best by **doing** — building something, breaking it, debugging it, and understanding why it works.
 
----
+My previous experience in automation gave me a strong interest in APIs, databases, workflows, and solving real-world problems with code.
 
-<div align="center">
-
-## 🚀 TECH STACK & TOOLS
-
-<img src="https://skillicons.dev/icons?i=js,html,css,postgres,supabase,git,github,docker,python,php&perline=10" />
-
-<br/><br/>
-
-**Tools & Technologies I Work With**
-
-`JavaScript` `SQL` `PostgreSQL` `Supabase` `n8n` `Docker` `Git` `GitHub` `REST APIs` `Google Sheets`
-
-<br/><br/>
-
-<!-- Programming Languages -->
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Languages I Speak:**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohaAarab\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=10)
-
-</div>
+> **Build. Break. Fix. Repeat.**
 
 ---
 
-<div align="center">
+## 🛠️ Tech Stack
 
-## 📊 GITHUB ANALYTICS
+### Languages & Core
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohaAarab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MohaAarab&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,python&perline=8" />
+</p>
 
-<br/>
+### Databases & Development
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohaAarab&custom_title=Mohamed%20Arab's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=628fdb&line=628fdb&point=628fdb&area_color=628fdb&title_color=628fdb&area=true&hide_border=true" width="100%"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,git,github,docker&perline=8" />
+</p>
 
-</div>
+### Tools & Technologies
+
+```text
+JavaScript
+SQL
+PostgreSQL
+MySQL
+Supabase
+n8n
+REST APIs
+Docker
+Git
+GitHub
+Google Sheets
+Resend
+Apify
+Vercel
+```
 
 ---
 
-<div align="center">
-
-## 🏆 ACHIEVEMENTS & TROPHIES
-
-<img src="https://media.giphy.com/media/3oz8xtBx06mcZWoNJm/giphy.gif" width="40">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MohaAarab&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 💼 FEATURED PROJECTS
-
-<table>
-<tr>
-
-<td width="50%">
+## 🚀 Featured Projects
 
 ### 🏠 Property Search WhatsApp Bot
 
-A real-estate assistant that allows users to search properties through WhatsApp, retrieve matching listings from a database, share property images, and hand conversations over to an agent when needed.
+**n8n + PostgreSQL + WhatsApp API + Google Calendar API**
 
-**Tech Stack:**
-`n8n` `PostgreSQL` `WhatsApp API` `Google Calendar API`
+A real-estate WhatsApp workflow that allows users to search for properties, receive matching results, view property information, and hand conversations over to an agent when needed.
 
-</td>
+**Focus:** APIs • Databases • Automation • Real-world workflows
 
-<td width="50%">
+---
 
 ### 🤖 Telegram Real Estate State Manager
 
-A Telegram-based automation system designed to manage conversation state and real-estate workflows for agencies.
+**n8n + Supabase + Telegram Bot API**
 
-**Tech Stack:**
-`n8n` `Supabase` `Telegram Bot API`
+A state-management system designed to keep track of conversations and user context across Telegram interactions.
 
-</td>
+**Focus:** State management • Database logic • Automation • APIs
 
-</tr>
+---
 
-<tr>
+### 🧰 Automation Projects Collection
 
-<td width="50%">
+A collection of automation projects and experiments built while developing my workflow automation skills.
 
-### ⚙️ Automation Projects Collection
+🔗 https://github.com/MohaAarab/projects-collection
 
-A collection of reusable automation workflows, scripts and tools built from real-world projects. Projects are anonymized and organized using IDs such as `AUT-001`, `AUT-002`, etc.
-
-**Tech Stack:**
-`n8n` `Docker` `PHP` `Python` `PostgreSQL`
-
-[![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge\&logo=github)](https://github.com/MohaAarab/projects-collection)
-
-</td>
-
-<td width="50%">
+---
 
 ### 💻 YouCode Projects
 
-A growing collection of JavaScript exercises, challenges and projects built while developing my programming fundamentals at YouCode.
+My learning projects and programming exercises while developing my software-development fundamentals at YouCode.
 
-**Tech Stack:**
-`JavaScript` `Git` `GitHub`
-
-[![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge\&logo=github)](https://github.com/MohaAarab/YouCode-repo)
-
-</td>
-
-</tr>
-</table>
-
-</div>
+🔗 https://github.com/MohaAarab/YouCode-repo
 
 ---
 
-<div align="center">
+## 🎯 Current Focus
 
-## 🎯 CURRENT FOCUS
-
-```mermaid
-graph LR
-    A[🔭 Building] --> B[Practical Development Projects]
-    C[🌱 Learning] --> D[JavaScript + SQL + Backend]
-    E[💬 Interested In] --> F[Web Development + APIs + Automation]
-    G[⚡ Mindset] --> H[Learn by Building]
-    
-    style A fill:#ff6b6b
-    style C fill:#4ecdc4
-    style E fill:#45b7d1
-    style G fill:#96ceb4
+```text
+JavaScript
+   │
+   ├── Programming fundamentals
+   ├── Arrays & objects
+   ├── Functions
+   └── Problem solving
+        │
+        ▼
+SQL & PostgreSQL
+        │
+        ▼
+Backend fundamentals
+        │
+        ▼
+Web development
+        │
+        ▼
+Real-world projects
 ```
 
-</div>
+I'm currently moving deeper into software development while keeping my automation background as part of my toolkit.
 
 ---
 
-<div align="center">
-
-## 📈 CONTRIBUTION GRAPH
+## 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/MohaAarab/MohaAarab/output/github-snake-dark.svg">
-
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/MohaAarab/MohaAarab/output/github-snake.svg">
-
-    <img
-      src="https://raw.githubusercontent.com/MohaAarab/MohaAarab/output/github-snake.svg"
-      alt="GitHub contribution snake"
-    />
-  </picture>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MohaAarab&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohaAarab&layout=compact&theme=github_dark&hide_border=true" />
 </p>
-</div>
 
 ---
 
-<div align="center">
-
-## 🌐 CONNECT WITH ME
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://aarabautomation.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohamed-aarab-automation-specialist/)
-
-### 💬 Let's Talk About:
-
- 💻 Software Development
- ⚡ JavaScript & APIs
- 🗄️ SQL & Databases
- 🤖 Automation & Workflow Systems
- 🚀 Building Practical Projects
- 📚 Learning & Developer Growth
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 WEEKLY DEVELOPMENT BREAKDOWN
+## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
-</div>
+---
+
+## 🐍 Contributions
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/MohaAarab/MohaAarab/output/github-snake-dark.svg">
+
+```
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/MohaAarab/MohaAarab/output/github-snake.svg">
+
+<img
+  src="https://raw.githubusercontent.com/MohaAarab/MohaAarab/output/github-snake.svg"
+  alt="GitHub contribution snake">
+```
+
+  </picture>
+</p>
 
 ---
 
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://aarabautomation.com">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/mohamed-aarab-real-estate-automation/">
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/MohaAarab">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=MohaAarab&style=flat-square&color=111827" alt="Profile views"/>
+
+</p>
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=MohaAarab&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
-
-<br/><br/>
-
-### Thanks for visiting! Keep building. 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
+### ⚡ Keep building.
 
 </div>
