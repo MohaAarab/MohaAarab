@@ -86,16 +86,11 @@ let learning_plan = [
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamed-arab&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3ddc84&icon_color=3ddc84" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-arab&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3ddc84" />
+<img src="https://streak-stats.demolab.com?user=mohamed-aarab&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3ddc84&fire=3ddc84&currStreakLabel=3ddc84" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=mohamed-arab&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3ddc84&fire=3ddc84&currStreakLabel=3ddc84" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-arab&bg_color=0d1117&color=3ddc84&line=3ddc84&point=ffffff&area=true&hide_border=true" />
+<img width="100%" src="https://ghchart.rshah.org/3ddc84/mohamed-aarab" />
 
 </div>
 
@@ -105,8 +100,8 @@ let learning_plan = [
 
 <div align="center">
 
-<a href="https://github.com/MohaAarab"><img src="https://img.shields.io/badge/GitHub-mohamed--arab-0d1117?style=for-the-badge&logo=github&logoColor=3ddc84" /></a>
-<a href="https://www.linkedin.com/in/mohamed-aarab-full-stack/"><img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Arab-0d1117?style=for-the-badge&logo=linkedin&logoColor=3ddc84" /></a>
+<a href="https://github.com/MohaAarab"><img src="https://img.shields.io/badge/GitHub-mohamed--Aarab-0d1117?style=for-the-badge&logo=github&logoColor=3ddc84" /></a>
+<a href="https://www.linkedin.com/in/mohamed-aarab-full-stack/"><img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Aarab-0d1117?style=for-the-badge&logo=linkedin&logoColor=3ddc84" /></a>
 <a href="https://aarabautomation.com"><img src="https://img.shields.io/badge/Personal-Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=3ddc84" /></a>
 
 </div>
