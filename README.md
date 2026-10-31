@@ -1,8 +1,8 @@
 <a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#52215A&height=120&section=header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#FFD700&height=120&section=header" />
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=52215A&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Mohamed+Aarab+👋;I'm+from+Marrakech,+Morocco+🇲🇦;Automation+Specialist+⚙️;Full-Stack+Developer+in+the+making+💻)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Mohamed+Aarab+👋;I'm+from+Marrakech,+Morocco+🇲🇦;Automation+Specialist+⚙️;Full-Stack+Developer+in+the+making+💻)
 
 - 🔭 I'm currently studying at **YouCode** (Safi, Morocco), building my skills in **JavaScript, HTML, CSS and Tailwind**, on top of a **C** foundation.
 - ⚙️ I run **AARABAUTOMATION**, where I build **n8n workflows** and automation systems for service-based businesses.
